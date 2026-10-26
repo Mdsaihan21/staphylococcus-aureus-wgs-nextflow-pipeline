@@ -1,0 +1,20 @@
+Organism: Staphylococcus aureus
+Sample accession: ERR16986790
+Functional annotation: GhostKOALA
+Unique KO identifiers submitted: 1338
+
+KEGG Mapper pathway highlights:
+Metabolic pathways: 477 matches
+Biosynthesis of secondary metabolites: 247 matches
+Biosynthesis of cofactors: 100 matches
+Biosynthesis of amino acids: 94 matches
+ABC transporters: 68 matches
+Two-component system: 64 matches
+Ribosome: 54 matches
+Quorum sensing: 37 matches
+Homologous recombination: 36 matches
+Glycolysis / Gluconeogenesis: 32 matches
+Staphylococcus aureus infection map: 21 matches
+
+Note: Counts are reported by KEGG Mapper and do not establish
+pathway completeness or gene expression.

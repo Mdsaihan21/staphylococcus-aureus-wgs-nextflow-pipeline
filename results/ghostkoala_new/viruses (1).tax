@@ -1,0 +1,166 @@
+MPPBMCOK_02324	vg:55600916		Staphylococcus phage 3 AJ-2017	HNH endonuclease	K07451
+MPPBMCOK_01410	vg:55599631		Staphylococcus phage P630	single strand DNA binding protein	K03111
+MPPBMCOK_00761	vg:28305536		Staphylococcus phage 80	tail completion or Neck1 protein	
+MPPBMCOK_02286	vg:26644588		Staphylococcus phage SA97	tail completion or Neck1 protein	
+MPPBMCOK_02345	vg:5130988		Staphylococcus phage 3A	endolysin	
+MPPBMCOK_02269	vg:5133556		Staphylococcus phage 29	endolysin	K01447
+MPPBMCOK_00744	vg:5133792		Staphylococcus phage 92	endolysin	K01447
+MPPBMCOK_02540	vg:55602819		Staphylococcus phage IME1361_01	anti-repressor	K07741
+MPPBMCOK_01419	vg:5132973		Staphylococcus phage 42E	antirepressor KilAC domain-containing protein	
+MPPBMCOK_02051	vg:5133844		Staphylococcus phage X2	anti-repressor	
+MPPBMCOK_02053	vg:5133257		Staphylococcus phage 96	transcriptional regulator	
+MPPBMCOK_02546	vg:14296324		Staphylococcus phage StB20	transcriptional repressor	
+MPPBMCOK_02052	vg:28305501		Staphylococcus phage 80	transcriptional repressor	
+MPPBMCOK_02306	vg:65069030		Staphylococcus phage Sebago	DnaD-like helicase loader	
+MPPBMCOK_02642	vg:65072231		Staphylococcus phage vB_SauS_fPfSau02	DnaD-like helicase loader	
+MPPBMCOK_01408	vg:5797043		Staphylococcus phage phiMR11	DnaD-like helicase loader	
+MPPBMCOK_01420	vg:26630723		Staphylococcus phage B166	transcriptional repressor	
+MPPBMCOK_01421	vg:26630722		Staphylococcus phage B166	transcriptional repressor	K01356
+MPPBMCOK_02266	vg:18480035		Staphylococcus phage StauST398-5	hypothetical protein	
+MPPBMCOK_02656	vg:7056929		Staphylococcus phage phiSauS-IPLA35	nucleotide kinase	
+MPPBMCOK_02270	vg:5133736		Staphylococcus phage 88	holin	
+MPPBMCOK_00745	vg:65068852		Staphylococcus phage Henu2	holin	
+MPPBMCOK_02332	vg:16745132		Staphylococcus phage JS01	head-tail adaptor Ad1	
+MPPBMCOK_02291	vg:9714292		Staphylococcus phage SAP-26	head scaffolding protein	
+MPPBMCOK_02644	vg:65072233		Staphylococcus phage vB_SauS_fPfSau02	DnaB-like replicative helicase	
+MPPBMCOK_02647	vg:65068799		Staphylococcus phage B122	RusA family crossover junction endodeoxyribonuclease	
+MPPBMCOK_02315	vg:4712306		Staphylococcus phage phiETA2	hypothetical protein	
+MPPBMCOK_02314	vg:1262968		Staphylococcus prophage phiPV83	hypothetical protein	
+MPPBMCOK_02650	vg:19736139		Staphylococcus phage DW2	acetyltransferase	
+MPPBMCOK_02653	vg:7056932		Staphylococcus phage phiSauS-IPLA35	hypothetical protein	
+MPPBMCOK_02652	vg:7056933		Staphylococcus phage phiSauS-IPLA35	hypothetical protein	
+MPPBMCOK_02326	vg:55608747		Staphylococcus phage SA780ruMSSAST101	terminase large subunit	
+MPPBMCOK_02296	vg:5246940		Staphylococcus phage 80alpha	terminase small subunit	K07474
+MPPBMCOK_00770	vg:16840901		Staphylococcus phage SA13	terminase small subunit	K07474
+MPPBMCOK_01411	vg:5133889		Staphylococcus phage X2	Sak-like ssDNA annealing protein	
+MPPBMCOK_02658	vg:5246991		Staphylococcus phage 80alpha	Sak-like ssDNA annealing protein	
+MPPBMCOK_02330	vg:7967027		Staphylococcus phage phiPVL-CN125	major head protein	
+MPPBMCOK_02329	vg:55608750		Staphylococcus phage SA780ruMSSAST101	head maturation protease	K06904
+MPPBMCOK_00772	vg:16797582		Staphylococcus phage SA12	RinB-like transcriptional activator	
+MPPBMCOK_02299	vg:65068814		Staphylococcus phage B122	RinB-like transcriptional activator	
+MPPBMCOK_02295	vg:5246962		Staphylococcus phage 80alpha	terminase large subunit	K06909
+MPPBMCOK_02344	vg:65072855		Staphylococcus phage phiSa2wa_st78	holin	
+MPPBMCOK_02312	vg:5133424		Staphylococcus phage 71	Panton-Valentine leukocicin	
+MPPBMCOK_01401	vg:65072238		Staphylococcus phage vB_SauS_fPfSau02	Panton-Valentine leukocicin	
+MPPBMCOK_02649	vg:19736133		Staphylococcus phage DW2	Panton-Valentine leukocicin	
+MPPBMCOK_00773	vg:5525367		Staphylococcus phage tp310-2	secreted protein	
+MPPBMCOK_02300	vg:55599785		Staphylococcus phage P1105	secreted protein	
+MPPBMCOK_02313	vg:5132775		Staphylococcus phage 69	virulence associated	
+MPPBMCOK_00769	vg:65068911		Staphylococcus phage vB_SauS-SAP27	terminase large subunit	
+MPPBMCOK_02317	vg:19736142		Staphylococcus phage DW2	transcriptional regulator	
+MPPBMCOK_02301	vg:5133632		Staphylococcus phage 52A	transcriptional regulator	
+MPPBMCOK_00775	vg:5133826		Staphylococcus phage 92	transcriptional regulator	
+MPPBMCOK_02294	vg:65068399		Staphylococcus phage Baq_Sau1	portal protein	
+MPPBMCOK_01403	vg:19736131		Staphylococcus phage DW2	DUF1064 domain-containing protein	
+MPPBMCOK_02310	vg:55632423		Staphylococcus phage phi7247PVL	DUF1064 domain-containing protein	
+MPPBMCOK_02328	vg:5525315		Staphylococcus phage tp310-1	portal protein	
+MPPBMCOK_01413	vg:11467931		Staphylococcus phage P954	DUF1108 family protein	
+MPPBMCOK_02660	vg:18479922		Staphylococcus phage StauST398-4	DUF1108 family protein	
+MPPBMCOK_02288	vg:26635513		Staphylococcus phage phinm2	hypothetical protein	
+MPPBMCOK_00763	vg:65069075		Staphylococcus phage UPMK_2	head-tail adaptor	
+MPPBMCOK_02274	vg:5130967		Staphylococcus phage 3A	DUF2951 domain-containing protein	
+MPPBMCOK_01409	vg:1262988		Staphylococcus prophage phiPV83	hypothetical protein	
+MPPBMCOK_02304	vg:65068792		Staphylococcus phage B122	hypothetical protein	
+MPPBMCOK_02641	vg:65068792		Staphylococcus phage B122	hypothetical protein	
+MPPBMCOK_02307	vg:5133534		Staphylococcus phage 55	DnaC-like helicase loader	K02315
+MPPBMCOK_02275	vg:5246920		Staphylococcus phage 80alpha	XkdX family protein	
+MPPBMCOK_01425	vg:26630782		Staphylococcus phage B166	integrase	K14059
+MPPBMCOK_02550	vg:22808002		Staphylococcus phage phiBU01	site-specific integrase	
+MPPBMCOK_02293	vg:9714290		Staphylococcus phage SAP-26	minor head protein	
+MPPBMCOK_00553	vg:65070587		Staphylococcus phage phiSP44-1	minor head protein	
+MPPBMCOK_02283	vg:9714300		Staphylococcus phage SAP-26	tail chaperone protein	
+MPPBMCOK_02284	vg:4525411		Staphylococcus phage phinm1	major tail protein	
+MPPBMCOK_02049	vg:1260595		Staphylococcus phage phiN315	DUF1270 family protein	
+MPPBMCOK_01415	vg:55631017		Staphylococcus phage SA7	DUF1270 domain-containing protein	
+MPPBMCOK_02534	vg:5797046		Staphylococcus phage phiMR11	hypothetical protein	
+MPPBMCOK_00765	vg:16840907		Staphylococcus phage SA13	major head protein	
+MPPBMCOK_00753	vg:16187335		Staphylococcus phage StauST398-1	minor tail protein	
+MPPBMCOK_02278	vg:4525417		Staphylococcus phage phinm1	minor tail protein	
+MPPBMCOK_00754	vg:16187331		Staphylococcus phage StauST398-1	minor head protein	
+MPPBMCOK_02279	vg:65068414		Staphylococcus phage Baq_Sau1	minor head protein	
+MPPBMCOK_02311	vg:5133602		Staphylococcus phage 29	DUF3113 family protein	
+MPPBMCOK_01402	vg:5133602		Staphylococcus phage 29	DUF3113 family protein	
+MPPBMCOK_02648	vg:65068800		Staphylococcus phage B122	DUF3113 domain-containing protein	
+MPPBMCOK_00751	vg:5797061		Staphylococcus phage phiMR11	tail fiber protein	
+MPPBMCOK_02276	vg:65068847		Staphylococcus phage Henu2	tail fiber protein	
+MPPBMCOK_02054	vg:19736115		Staphylococcus phage DW2	metallo-protease	
+MPPBMCOK_02316	vg:6370088		Staphylococcus phage phiMR25	putative dUTPase	
+MPPBMCOK_02303	vg:26630749		Staphylococcus phage B166	nucleoside triphosphate pyrophosphohydrolase	
+MPPBMCOK_00776	vg:5133872		Staphylococcus phage X2	dUTP diphosphatase	
+MPPBMCOK_00756	vg:16187340		Staphylococcus phage StauST398-1	tail length tape measure protein	
+MPPBMCOK_02281	vg:9714302		Staphylococcus phage SAP-26	phage tape measure protein	
+MPPBMCOK_00764	vg:5133757		Staphylococcus phage 88	Arc-like repressor	
+MPPBMCOK_02289	vg:5130879		Staphylococcus phage 85	Arc-like repressor	
+MPPBMCOK_02309	vg:19736130		Staphylococcus phage DW2	DUF3269 family protein	
+MPPBMCOK_01404	vg:5132740		Staphylococcus phage 69	DUF3269 family protein	
+MPPBMCOK_02646	vg:65072235		Staphylococcus phage vB_SauS_fPfSau02	DUF3269 family protein	
+MPPBMCOK_00747	vg:5797051		Staphylococcus phage phiMR11	tail associated cell-wall hydrolase	K23989
+MPPBMCOK_00755	vg:5133677		Staphylococcus phage 52A	tail protein	
+MPPBMCOK_02325	vg:1258149		Staphylococcus phage phi 13	terminase small subunit	
+MPPBMCOK_00766	vg:927377		Staphylococcus phage phiETA	head scaffolding protein	
+MPPBMCOK_02333	vg:16745133		Staphylococcus phage JS01	head-tail adaptor protein	
+MPPBMCOK_02321	vg:5525442		Staphylococcus phage tp310-3	DUF1514 family protein	
+MPPBMCOK_00768	vg:26635629		Staphylococcus phage B236	portal protein	
+MPPBMCOK_00758	vg:927399		Staphylococcus phage phiETA	tail assembly chaperone	
+MPPBMCOK_00757	vg:5133749		Staphylococcus phage 88	tail assembly chaperone	
+MPPBMCOK_02057	vg:5133892		Staphylococcus phage X2	integrase	
+MPPBMCOK_00767	vg:927378		Staphylococcus phage phiETA	minor head protein	
+MPPBMCOK_02277	vg:26635645		Staphylococcus phage B236	BppU family baseplate upper protein	
+MPPBMCOK_00752	vg:65068416		Staphylococcus phage Baq_Sau1	base plate upper protein	
+MPPBMCOK_02272	vg:5246933		Staphylococcus phage 80alpha	tail fiber protein	
+MPPBMCOK_00746	vg:65068982		Staphylococcus phage Sebago	tail fiber protein	
+MPPBMCOK_02654	vg:7056931		Staphylococcus phage phiSauS-IPLA35	DNA methyltransferase	
+MPPBMCOK_02297	vg:65068731		Staphylococcus phage TEM126	transcriptional regulator	
+MPPBMCOK_02287	vg:65068642		Staphylococcus phage SAP33	minor head protein	
+MPPBMCOK_02271	vg:5133784		Staphylococcus phage 92	ORF035	
+MPPBMCOK_02335	vg:1263007		Staphylococcus prophage phiPV83	tail terminator	
+MPPBMCOK_02308	vg:5133533		Staphylococcus phage 55	transcriptional regulator	
+MPPBMCOK_00762	vg:5797068		Staphylococcus phage phiMR11	putative head-tail adaptor	
+MPPBMCOK_00774	vg:26635624		Staphylococcus phage B236	hypothetical protein	
+MPPBMCOK_01412	vg:5246955		Staphylococcus phage 80alpha	DUF2483 family protein	
+MPPBMCOK_00760	vg:65068969		Staphylococcus phage vB_SauS-SAP27	tail terminator	
+MPPBMCOK_02290	vg:9714293		Staphylococcus phage SAP-26	head protein	
+MPPBMCOK_00759	vg:16187370		Staphylococcus phage StauST398-1	major tail protein	
+MPPBMCOK_02340	vg:18479960		Staphylococcus phage StauST398-4	minor head protein	
+MPPBMCOK_02338	vg:16745139		Staphylococcus phage JS01	tail length tape measure protein	
+MPPBMCOK_00771	vg:65068815		Staphylococcus phage B122	hypothetical protein	
+MPPBMCOK_02322	vg:7967019		Staphylococcus phage phiPVL-CN125	hypothetical protein	
+MPPBMCOK_02339	vg:1262975		Staphylococcus prophage phiPV83	tail family protein	
+MPPBMCOK_02056	vg:19736113		Staphylococcus phage DW2	putative lipoprotein	
+MPPBMCOK_01424	vg:7057025		Staphylococcus phage vB_SauS-phiIPLA88	hypothetical protein	
+MPPBMCOK_02543	vg:55599623		Staphylococcus phage P630	hypothetical protein	
+MPPBMCOK_01417	vg:5132971		Staphylococcus phage 42E	ORF029	
+MPPBMCOK_01416	vg:4712295		Staphylococcus phage phiETA2	hypothetical protein	
+MPPBMCOK_02285	vg:5132763		Staphylococcus phage 69	tail fiber protein proximal subunit	
+MPPBMCOK_02282	vg:65068541		Staphylococcus phage SA75	tail assembly chaperone	
+MPPBMCOK_02342	vg:1260570		Staphylococcus phage phiN315	hypothetical protein	
+MPPBMCOK_01405	vg:5797039		Staphylococcus phage phiMR11	hypothetical protein	
+MPPBMCOK_02645	vg:65072234		Staphylococcus phage vB_SauS_fPfSau02	hypothetical protein	
+MPPBMCOK_02643	vg:65072232		Staphylococcus phage vB_SauS_fPfSau02	helicase loader	
+MPPBMCOK_01407	vg:7056979		Staphylococcus phage vB_SauS-phiIPLA88	helicase loader	
+MPPBMCOK_02535	vg:55608818		Staphylococcus phage SA345ruMSSAST8	DUF771 domain-containing protein	
+MPPBMCOK_01414	vg:65069037		Staphylococcus phage Sebago	DUF2482 family protein	
+MPPBMCOK_02343	vg:22276169		Staphylococcus phage phiSa119	hypothetical protein	
+MPPBMCOK_02655	vg:7056930		Staphylococcus phage phiSauS-IPLA35	hypothetical protein	
+MPPBMCOK_02651	vg:7056934		Staphylococcus phage phiSauS-IPLA35	hypothetical protein	
+MPPBMCOK_02292	vg:65068470		Staphylococcus phage HSA84	hypothetical protein	
+MPPBMCOK_02331	vg:1262706		Staphylococcus phage PVL	hypothetical protein	
+MPPBMCOK_01418	vg:65068563		Staphylococcus phage SA75	hypothetical protein	
+MPPBMCOK_02055	vg:19736114		Staphylococcus phage DW2	hypothetical protein	
+MPPBMCOK_01423	vg:9714319		Staphylococcus phage SAP-26	gp3	
+MPPBMCOK_02545	vg:22276116		Staphylococcus phage phiSa119	hypothetical protein	
+MPPBMCOK_02336	vg:55600904		Staphylococcus phage 3 AJ-2017	major tail protein	
+MPPBMCOK_01422	vg:65068762		Staphylococcus phage TEM126	hypothetical protein	
+MPPBMCOK_02334	vg:1262995		Staphylococcus prophage phiPV83	HK97 gp10 family protein	
+MPPBMCOK_02337	vg:7967033		Staphylococcus phage phiPVL-CN125	hypothetical protein	
+MPPBMCOK_02323	vg:5525438		Staphylococcus phage tp310-3	MazG-like pyrophosphatase	
+MPPBMCOK_01020	vg:55599741		Staphylococcus phage P1105	enterotoxin type A / speL	K11040
+MPPBMCOK_02327	vg:55608748		Staphylococcus phage SA780ruMSSAST101	hypothetical protein	
+MPPBMCOK_02320	vg:16745120		Staphylococcus phage JS01	hypothetical protein	
+MPPBMCOK_02541	vg:11467995		Staphylococcus phage P954	hypothetical protein	
+MPPBMCOK_00749	vg:26645693		Staphylococcus phage IME-SA4	tail protein	
+MPPBMCOK_02347	vg:18480036		Staphylococcus phage StauST398-5	hypothetical protein	
+MPPBMCOK_02548	vg:7056911		Staphylococcus phage phiSauS-IPLA35	hypothetical protein	
+MPPBMCOK_00450	vg:4594516		Staphylococcus phage phiPVL108	IS1182-like element ISSau3 family transposase	
+MPPBMCOK_00463	vg:4594516		Staphylococcus phage phiPVL108	IS1182-like element ISSau3 family transposase	
+MPPBMCOK_02305	vg:927363		Staphylococcus phage phiETA	hypothetical protein	

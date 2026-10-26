@@ -1,0 +1,41 @@
+# Nextflow runtime and cache
+.nextflow/
+.nextflow.log*
+work/
+.nextflow_history
+
+# Large sequencing files
+data/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Temporary and system files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Conda and environment files
+.conda/
+.env
+
+# Large BUSCO intermediate results
+results/busco/
+
+# Large sequencing reads
+results/trimmed/
+results/fastq/
+results/assembly/spades_out/tmp/
+
+# Large intermediate outputs
+results/busco/
+results/trimmed/
+results/assembly/spades_out/tmp/
+
+# Raw sequencing files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
